@@ -1,0 +1,2 @@
+[Adblock Plus 3.0]
+feedly.com#?#div.entry:-abp-has(> div.CondensedToolbar > div.button-dropdown)
